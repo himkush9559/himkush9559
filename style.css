@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(40, 44, 51, 100%);
+  font-family: Fira Code;
+}
+.container-flued {
+  background-color: rgb(40, 44, 51, 100%);
+  color: white;
+  width: 100%;
+  overflow: hidden;
+  text-decoration: none;
+}
+#my-name {
+  overflow: hidden;
+
+  text-decoration: none;
+  color: rgb(100, 255, 218, 100%);
+  font-size: 51px;
+  font-weight: 700;
+}
+.p-greeting {
+  font-size: 32px;
+  font-weight: "600";
+  color: seashell;
+}
+.line {
+  border: 2px solid;
+}
+strong {
+  color: rgb(100, 255, 218, 100%);
+}
+
+.contact-info-box {
+  width: 300px;
+  height: 300px;
+  border-color: 2px solid black;
+}
