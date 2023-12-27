@@ -1,16 +1,23 @@
-### Hi there 👋
+# Himanshu kushwaha's Portfolio
 
-<!--
-**himkush9559/himkush9559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 I'm Himanshu Kushwaha, a passionate Front-end web developer based in Noida. Welcome to my GitHub portfolio, I showcase my projects and share my journey in the world of Front-End.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## Skills
+
+- [List your key skills- [HTML, CSS, JavaScript], Framework-[ bootstrap, Tailwind CSS ],
+- tools-[ Vscode, Figma, Photoshop, MS Office ]
+
+
+## Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/himanshu-kushwaha-b06296263)
+
+- [Portfolio ](himkush9559.github.io/himkush)
+
+
+
